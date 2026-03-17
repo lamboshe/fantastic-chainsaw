@@ -26,27 +26,32 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm [Your Name]</h1>
+    <!-- Big heading -->
+    <h1>Welcome to My Personal Site!</h1>
+
+    <!-- Small subheading -->
+    <h2>Hi, I'm LambosheprG — Web Developer in the making</h2>
 
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
+        <p>I'm a student currently learning Web Development.
+           I'm interested in AI, gaming, and music.</p>
     </div>
 
     <div class="section">
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
+            <li>JavaScript</li>
+            <li>Python</li>
         </ul>
     </div>
 
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href=https://github.com/lamboshe/fantastic-chainsaw.git">My GitHub Profile</a></li>
+            <li><a href="https://github.com/LambosheprG">My GitHub Profile</a></li>
+            <li><a href="https://www.linkedin.com/in/lambosheprG/">My LinkedIn</a></li>
         </ul>
     </div>
 </body>
-</html>
