@@ -14,5 +14,5 @@
 
 ## How to Reach Me
 - Email: [awilisean@gmail.com]
-- LinkedIn: [your L@lambosheprG]
+- LinkedIn: [LinkedIn: [lambosheprG](https://www.linkedin.com/in/lambosheprG)]
 
